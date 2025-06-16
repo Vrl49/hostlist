@@ -1,0 +1,92 @@
+{
+  "output": "filterlist.txt",
+  "sources": [
+    {
+      "type": "url",
+      "format": "adblock",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.plus.txt"
+    },
+    {
+      "type": "url",
+      "format": "adblock",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/tif.txt"
+    },
+    {
+      "type": "url",
+      "format": "adblock",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.roku.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.vivo.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.oppo-realme.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt"
+    },
+    {
+      "type": "url",
+      "format": "adblock",
+      "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt"
+    },
+    {
+      "type": "url",
+      "format": "hosts",
+      "url": "https://big.oisd.nl/"
+    }
+  ],
+  "exclusions": [
+    {
+      "type": "url",
+      "format": "adblock",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/whitelist-referral.txt"
+    }
+  ]
+}
